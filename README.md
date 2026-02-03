@@ -1,6 +1,6 @@
-Reproducing A Fourier Explanation of AI-Music Artifacts (ISMIR 2025)
+# Reproducing A Fourier Explanation of AI-Music Artifacts (ISMIR 2025)
 
-This repository is a fork of the official implementation accompanying the ISMIR 2025 paper:
+## This repository is a fork of the official implementation accompanying the ISMIR 2025 paper:
 
 A Fourier Explanation of AI-music Artifacts
 D. Afchar, G. Meseguer-Brocal, K. Akesbi, R. Hennequin
