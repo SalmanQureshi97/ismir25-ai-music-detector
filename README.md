@@ -1,15 +1,15 @@
 # Reproducing A Fourier Explanation of AI-Music Artifacts (ISMIR 2025)
 
-## This repository is a fork of the official implementation accompanying the ISMIR 2025 paper:
+### This repository is a fork of the official implementation accompanying the ISMIR 2025 paper:
 
 A Fourier Explanation of AI-music Artifacts
 D. Afchar, G. Meseguer-Brocal, K. Akesbi, R. Hennequin
 
 The purpose of this fork is strictly to reproduce the experimental results reported in the paper, in particular:
 
-Table 1: Open-source auto-encoding models evaluated on FMA (medium)
+1. Open-source auto-encoding models evaluated on FMA (medium)
 
-Table 2: Closed-source generators (Suno, Udio) evaluated on SONICS
+2. Closed-source generators (Suno, Udio) evaluated on SONICS
 
 No methodological changes are introduced.
 All datasets, splits, preprocessing choices, frequency bands, and classifiers are aligned as closely as possible with the paper and the referenced Deezer repositories.
